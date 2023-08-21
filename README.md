@@ -1,4 +1,4 @@
-# Econ-Food
+# Econ Food
 BT3103 Project AY 22/23 Semester 2
 
 Report: https://drive.google.com/file/d/1Q4OPs1HIMNvSEeDSWmnE0ryVvnplCVly/view?usp=sharing
